@@ -1,2 +1,2 @@
-# Receita de Strogonoff de Frango :wave:
+# Receita de Strogonoff de Frango :chicken:
 ## Apenas uma receita.
