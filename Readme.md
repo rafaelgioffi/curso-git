@@ -1,3 +1,3 @@
 # Projeto de Teste
 #
-# Esse repositório é apenas uma demonstração
+# Esse repositório é apenas uma demonstração.
